@@ -15,6 +15,7 @@
 .jhtml
 .js
 .jsa
+.json
 .jsp
 .log
 .mdb
@@ -31,6 +32,8 @@
 .pht
 .phtml
 .pl
+.phar
+.rb
 .reg
 .sh
 .shtml
